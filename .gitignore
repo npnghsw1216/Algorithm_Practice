@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Build output
+target/
+bin/
+build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+
+# Java crash logs
+hs_err_pid*
+
+# Environment files
+.env
